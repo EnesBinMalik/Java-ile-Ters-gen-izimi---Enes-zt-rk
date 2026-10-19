@@ -1,0 +1,6 @@
+{
+  "name": "Java ile Ters Üçgen Çizimi - Enes Öztürk",
+  "description": "Kullanıcıdan alınan basamak sayısı ile döngüler kullanılarak yıldızlarla (*) ters üçgen çizen Java programı ve interaktif simülatörü. Enes Öztürk imzasıyla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
